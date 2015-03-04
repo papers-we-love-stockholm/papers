@@ -3,5 +3,5 @@
 * First meet-up
 
 ** Suggestions
-   - Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. Communications of the ACM. [[doi:10.1145/359545.359563]]
+   - [http://dl.acm.org/citation.cfm?doid=359545.359563][Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. Communications of the ACM. doi:10.1145/359545.359563]]
    - [[http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf][Friedman,D. P and Hemann, J. µKanren: A Minimal Functional Core for Relational Programming.]]
